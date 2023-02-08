@@ -1,0 +1,2 @@
+# XaRpg
+Rpg.bat game
